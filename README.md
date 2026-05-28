@@ -9,7 +9,7 @@ How can computational textual analysis reveal thematic and stylistic transformat
 
 William Blake (Romantic literature)
 - T. S. Eliot (Modernist literature)
-- Mohsin Hamid (Postcolonial 
+- Mohsin Hamid (Postcolonial literature)
 
 ## Methodology
 
@@ -20,8 +20,8 @@ This project employs a mixed digital humanities approach combining Voyant Tools 
 
 - Voyant visualizations
 - Python-generated graphs
-- comparative textual analysis
-- public Digital Humanities blog portfolio
+- Comparative textual analysis
+- Public Digital Humanities blog portfolio
 
 ## Blog Portfolio
 
