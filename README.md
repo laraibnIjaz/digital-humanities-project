@@ -1,4 +1,5 @@
 # Computational Comparative Digital Humanities Project
+
 Comparative Digital Humanities project using Voyant Tools and Python-based textual analysis across Romantic, Modernist, and Postcolonial literature.
 
 ## Research Question
@@ -21,7 +22,7 @@ This project employs a mixed digital humanities approach combining Voyant Tools 
 - Voyant visualizations
 - Python-generated graphs
 - Comparative textual analysis
-- Public Digital Humanities blog portfolio
+- Public Digital Humanities Blog Portfolio
 
 ## Blog Portfolio
 
